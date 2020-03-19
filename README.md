@@ -1,2 +1,0 @@
-# testrepositry
-てすと
